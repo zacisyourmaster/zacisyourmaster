@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zacisyourmaster" alt="zacisyourmaster" /></a> </p>
 
-- 🔭 I'm currently working on **Pokéle - A Pokémon themed Wordle Style Game**
+- 🔭 I'm currently working on **Track.io - A Full-Stack Job Tracking Application**
 
 - 🌱 I'm currently learning **React and Typescript**
 
