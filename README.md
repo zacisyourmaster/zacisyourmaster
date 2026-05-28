@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zacisyourmaster" alt="zacisyourmaster" /></a> </p>
 
-- 🔭 I'm currently working on **Track.io - A Full-Stack Job Tracking Application**
+- 🔭 I'm currently working on **[HireHunt](https://hirehunt.tech) - A Full-Stack Job Tracking Application**
 
 - 🌱 I'm currently learning **React and Typescript**
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://zacisyourmaster.github.io/](https://zacisyourmaster.github.io/)**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1ny1kPTRmI7Kn5cYezQnE6TczHkpHxMJuyZCGcsYMyfM/edit?usp=sharing](https://docs.google.com/document/d/1ny1kPTRmI7Kn5cYezQnE6TczHkpHxMJuyZCGcsYMyfM/edit?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://docs.google.com/document/d/1ny1kPTRmI7Kn5cYezQnE6TczHkpHxMJuyZCGcsYMyfM/edit?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
